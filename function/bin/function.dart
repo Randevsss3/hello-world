@@ -1,9 +1,9 @@
 import 'dart:io';
 
 double luas_persegi(double panjang, double luas){
-  // double hasil;
-  // hasil = panjang * luas;
-  //return hasil;
+  double hasil;
+  hasil = panjang * luas;
+  return hasil;
 
   //bisa lgsg dikembalikan di return
   return panjang * luas;
